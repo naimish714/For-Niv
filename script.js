@@ -5,7 +5,7 @@ let images = [
     "Photo04.jpg",
     "Photo05.jpg",
     "Photo06.jpg",
-    "Photo07.jpg"
+    "Photo07.jpg",
     "Photo08.gif"
 ];
 let current = 0;
@@ -42,4 +42,5 @@ function surprise() {
     alert("No matter the distance, I am yours. ❤️");
 
 }
+
 
