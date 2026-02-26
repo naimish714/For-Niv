@@ -21,10 +21,10 @@ let messages = [
     "I feel blessed to see and be part of this journey with you",
     "I love waking up knowing that you are mine",
     "I’m proud of the the person you are and I miss you so damn much",
-    "I would 100% become a demon-king and roam the world in search for you for 800 years"
-    "I wish you were here with me and we could go out again"
+    "I would 100% become a demon-king and roam the world in search for you for 800 years",
+    "I wish you were here with me and we could go out again",
     "I can't wait to see you again, and start our life together",
-    "I love you so much and I miss you so so much. Also my favourite pictures of us"
+    "I love you so much and I miss you so so much. Also my favourite pictures of us!"
 ];
 
 let msgIndex = 0;
@@ -42,3 +42,4 @@ function surprise() {
     alert("No matter the distance, I am yours. ❤️");
 
 }
+
