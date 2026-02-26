@@ -1,12 +1,12 @@
 let images = [
-    "images/Photo01.jpg",
-    "images/Photo02.jpg",
-    "images/Photo03.jpg",
-    "images/Photo04.jpg",
-    "images/Photo05.jpg",
-    "images/Photo06.jpg",
-    "images/Photo07.jpg"
-    "images/Photo08.gif"
+    "Photo01.jpg",
+    "Photo02.jpg",
+    "Photo03.jpg",
+    "Photo04.jpg",
+    "Photo05.jpg",
+    "Photo06.jpg",
+    "Photo07.jpg"
+    "Photo08.gif"
 ];
 let current = 0;
 
@@ -34,10 +34,11 @@ function showMessage() {
         document.getElementById("message").innerText = messages[msgIndex];
         msgIndex++;
     } else {
-        document.getElementById("message").innerText = "Okay now stop being greedy 😌";
+        document.getElementById("message").innerText = "Can't wait to make more memories!";
     }
 }
 
 function surprise() {
     alert("No matter the distance, I am yours. ❤️");
+
 }
